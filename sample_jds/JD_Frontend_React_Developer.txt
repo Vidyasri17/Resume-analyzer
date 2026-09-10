@@ -1,0 +1,27 @@
+Job Description: Frontend React Developer
+Company: TechNova - Bangalore | Experience: 2-4 years | Type: Full-time
+
+About Role:
+We are looking for a Frontend Developer skilled in React ecosystem to build high-performance user interfaces.
+
+Required Skills:
+- React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Redux
+- Next.js, Vue or Angular is a plus
+- REST APIs, GraphQL integration
+- Git, Agile, Scrum
+
+Preferred Skills:
+- Node.js basics, Figma collaboration
+- Testing with Jest
+
+Education:
+Bachelor degree in Computer Science or related field
+
+Responsibilities:
+- Develop responsive web apps with React and TypeScript
+- Optimize performance, collaborate with backend via REST APIs
+- Work in agile teams with Jira and Git
+
+Keywords: React, Frontend, JavaScript, TypeScript, HTML, CSS, Redux, Next.js, REST APIs, GraphQL, Git
+
+Certifications: None mandatory

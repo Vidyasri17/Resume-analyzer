@@ -1,0 +1,31 @@
+Job Description: Data Scientist / ML Engineer
+Company: AI Labs - Bangalore | Experience: 3-6 years
+
+Required Skills:
+- Python, Machine Learning, Artificial Intelligence, Deep Learning, NLP, Data Science
+- TensorFlow, PyTorch, Scikit-learn, Numpy, Pandas
+- SQL, PostgreSQL, MySQL
+- AWS or Google Cloud, Docker
+
+Preferred Skills:
+- Flask, FastAPI, Django
+- Kubernetes, Elasticsearch, MongoDB
+- Agile, Git
+
+Education:
+Master/Bachelor in Data Science, Computer Science, or related. M.Tech preferred.
+
+Experience:
+3+ years of experience in Machine Learning and Data Science projects
+
+Responsibilities:
+- Build and deploy ML models using Python, TensorFlow, PyTorch
+- Perform data analysis with Pandas, Numpy, SQL
+- Deploy models on AWS/Google Cloud with Docker
+- Work with NLP and deep learning
+
+Keywords: Machine Learning, Data Science, Python, TensorFlow, PyTorch, NLP, Deep Learning, AWS
+
+Certifications:
+- TensorFlow Developer Certificate preferred
+- AWS Certified preferred

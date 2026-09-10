@@ -1,0 +1,29 @@
+Vikram Singh
+Finance Analyst | Investment Analyst
+Email: vikram.singh@email.com | Phone: +91-9876543214 | Location: Delhi, India
+
+SUMMARY
+Finance Analyst with 5 years of experience in financial modeling, valuation, and investment research. CFA Level 2 cleared.
+
+EDUCATION
+MBA Finance - FMS Delhi (2018-2020)
+Bachelor of Commerce - SRCC Delhi (2015-2018)
+
+EXPERIENCE
+Senior Finance Analyst - Goldman Sachs (2020-Present) - 5 years experience
+- Built financial models, DCF, LBO for portfolio companies
+- Used Excel, SQL, Python (Pandas, Numpy) for financial data analysis
+- Worked with PostgreSQL, MySQL for data extraction
+- Experience with Data Science for financial forecasting
+
+Analyst - EY (2018-2020) - 2 years
+
+SKILLS
+Finance: Financial Modeling, Valuation, Investment Research, Risk Analysis, Portfolio Management
+Technical: Python, Pandas, Numpy, SQL, PostgreSQL, MySQL, Excel, Data Science (basic)
+Tools: Agile, Jira, Git (basic)
+Other: Machine Learning (basic exposure), AWS (basic)
+
+CERTIFICATIONS
+- CFA Level 2 Cleared
+- Financial Modeling & Valuation Analyst (FMVA)

@@ -1,0 +1,31 @@
+Job Description: DevOps Engineer - AWS & Kubernetes
+Company: InfraScale - Hyderabad | Experience: 4+ years
+
+Required Skills:
+- AWS, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Linux, Git
+- Python, Go, Bash
+- Microservices, REST APIs
+- PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+
+Preferred Skills:
+- Azure, Google Cloud
+- Cassandra, Dynamodb, Oracle
+- Agile, Scrum, Jira
+
+Education:
+B.Tech in IT/CS or related
+
+Experience:
+4+ years in DevOps with AWS and Kubernetes
+
+Responsibilities:
+- Manage AWS infrastructure with Docker, Kubernetes, Terraform
+- Build CI/CD pipelines with Jenkins and Git
+- Automate with Python/Go, manage databases and microservices
+- Ensure high availability on Linux
+
+Keywords: AWS, DevOps, Docker, Kubernetes, CI/CD, Terraform, Jenkins, Linux, Git, Python
+
+Certifications Required:
+- AWS Certified Solutions Architect preferred
+- Kubernetes Certified Administrator (CKA) preferred

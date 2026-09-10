@@ -1,0 +1,34 @@
+Karan Patel
+DevOps Engineer | Cloud Engineer
+Email: karan.patel@email.com | Phone: +91-9876543216 | Location: Hyderabad, India
+
+SUMMARY
+DevOps Engineer with 6 years of experience in AWS, Kubernetes, and CI/CD automation. Passionate about infrastructure as code.
+
+EDUCATION
+Bachelor of Technology in Information Technology - IIIT Hyderabad (2014-2018)
+
+EXPERIENCE
+Senior DevOps Engineer - Amazon Web Services (2020-Present) - 5 years experience
+- Managed AWS infrastructure for 50+ microservices using Docker, Kubernetes, Terraform, Jenkins
+- Built CI/CD pipelines with Jenkins, Git, Linux, CI/CD best practices
+- Worked with PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Dynamodb for DB ops
+- Used Python, Go, Bash for automation, Node.js (basic)
+
+DevOps Engineer - Wipro (2018-2020) - 2 years
+- Implemented monitoring with Elasticsearch
+
+SKILLS
+Cloud/DevOps: AWS, Azure, Google Cloud, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Linux, Git
+Database: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Dynamodb, Elasticsearch, SQL, Oracle, SQLite
+Programming: Python, Go, Bash, Java (basic), Node.js (basic)
+Other: Microservices, REST APIs, Agile, Scrum, Jira
+
+PROJECTS
+- Migrated monolith to Kubernetes reducing costs by 30%
+- Built auto-scaling CI/CD for 100+ deployments/day
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Professional
+- Kubernetes Certified Administrator (CKA)
+- Terraform Associate

@@ -1,0 +1,36 @@
+Priya Mehta
+Data Scientist | ML Engineer
+Email: priya.mehta@email.com | Phone: +91-9876543211 | Location: Hyderabad, India
+
+SUMMARY
+Data Scientist with 5 years of experience in Machine Learning, Deep Learning, and Data Science. Expertise in Python, TensorFlow, and NLP.
+
+EDUCATION
+Master of Technology in Data Science - IIT Hyderabad (2019-2021)
+Bachelor in Computer Science - Delhi University (2015-2019)
+
+EXPERIENCE
+Data Scientist - Fractal Analytics (2021-Present) - 4 years of experience
+- Built ML models for customer segmentation and churn prediction with 92% accuracy
+- Developed deep learning models using TensorFlow, PyTorch, Scikit-learn, NLP
+- Worked with Python, Numpy, Pandas, Data Science pipelines on AWS and Google Cloud
+- Deployed models with Docker, Flask, FastAPI
+- Used SQL, PostgreSQL, MongoDB, Elasticsearch for data handling
+
+Research Intern - IBM (2020-2021)
+- Published paper on NLP for healthcare
+
+SKILLS
+AI/ML: Python, Machine Learning, Artificial Intelligence, TensorFlow, PyTorch, Scikit-learn, Deep Learning, NLP, Data Science, Numpy, Pandas
+Cloud: AWS, Google Cloud, Docker
+Database: SQL, PostgreSQL, MongoDB, Elasticsearch, MySQL
+Backend: Flask, FastAPI, Python, Django
+Other: Agile, Git, Linux
+
+PROJECTS
+- Sentiment Analysis for e-commerce reviews using NLP and BERT
+- Fraud detection system with 95% recall using Machine Learning
+
+CERTIFICATIONS
+- Google Cloud Certified - Professional Data Engineer
+- TensorFlow Developer Certificate

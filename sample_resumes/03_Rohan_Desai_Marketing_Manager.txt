@@ -1,0 +1,35 @@
+Rohan Desai
+Digital Marketing Manager
+Email: rohan.desai@email.com | Phone: +91-9876543212 | Location: Mumbai, India
+
+SUMMARY
+Creative Digital Marketing Manager with 6 years of experience driving growth for D2C and SaaS brands. Expert in SEO, SEM, and content strategy.
+
+EDUCATION
+MBA in Marketing - IIM Ahmedabad (2016-2018)
+Bachelor of Commerce - Mumbai University (2013-2016)
+
+EXPERIENCE
+Digital Marketing Manager - Nykaa (2020-Present) - 5 years experience
+- Led SEO/SEM campaigns increasing organic traffic by 180%
+- Managed Google Ads, Facebook Ads, Instagram campaigns with 3.5x ROAS
+- Used Google Analytics, Figma for campaign creatives, Jira for project management
+- Collaborated with agile teams, scrum ceremonies
+
+Marketing Executive - Schbang (2018-2020) - 2 years
+- Content marketing, email campaigns, social media growth
+
+SKILLS
+Marketing: SEO, SEM, Google Analytics, Google Ads, Content Marketing, Social Media Marketing, Email Marketing, Brand Strategy
+Tools: Figma, Jira, Agile, Scrum, HTML, CSS (basic)
+Analytics: Data Analysis with Excel, SQL (basic)
+
+PROJECTS
+- Led Nykaa festive campaign reaching 5M users
+- Built influencer marketing program with 200+ creators
+
+CERTIFICATIONS
+- Google Certified Digital Marketing Specialist
+- HubSpot Content Marketing Certified
+
+Note: No heavy technical skills like React, Node.js, AWS, Docker, Python, Machine Learning.

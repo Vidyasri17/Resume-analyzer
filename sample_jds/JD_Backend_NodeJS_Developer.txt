@@ -1,0 +1,29 @@
+Job Description: Backend Developer - Node.js
+Company: CloudCore - Hyderabad | Experience: 3+ years | Type: Full-time
+
+Required Skills:
+- Node.js, Express, JavaScript, TypeScript, Java, Spring Boot
+- PostgreSQL, MySQL, MongoDB, Redis, SQL
+- REST APIs, Microservices, GraphQL
+- AWS, Docker, CI/CD, Git, Linux
+
+Preferred Skills:
+- Kubernetes, Jenkins, Terraform
+- Python, Go
+
+Education:
+Bachelor in Computer Science - B.Tech/B.E or MCA preferred
+
+Experience:
+3+ years of backend development with Node.js and microservices
+
+Responsibilities:
+- Design and develop scalable REST APIs and microservices
+- Manage databases (PostgreSQL, MongoDB, Redis)
+- Deploy on AWS with Docker and CI/CD
+- Collaborate in agile, scrum teams
+
+Keywords: Node.js, Backend, Express, PostgreSQL, AWS, Docker, Microservices, REST APIs
+
+Certifications:
+- AWS Certified Developer preferred

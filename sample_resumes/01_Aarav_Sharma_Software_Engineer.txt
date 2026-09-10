@@ -1,0 +1,35 @@
+Aarav Sharma
+Software Engineer - Full Stack Developer
+Email: aarav.sharma@email.com | Phone: +91-9876543210 | Location: Bangalore, India | GitHub: github.com/aaravsharma
+
+SUMMARY
+Full Stack Developer with 4 years of experience building scalable web applications using React, Node.js, and cloud technologies. Passionate about clean code and microservices architecture.
+
+EDUCATION
+Bachelor of Technology in Computer Science - VIT Vellore (2018-2022) - CGPA 8.6
+
+EXPERIENCE
+Software Engineer - Infosys (2022-Present) - 3 years
+- Built responsive web apps with React, JavaScript, TypeScript, Redux, HTML, CSS, Tailwind CSS
+- Developed REST APIs and microservices with Node.js, Express, Java, Spring Boot
+- Managed databases: PostgreSQL, MySQL, MongoDB, Redis
+- Deployed on AWS, Docker, Kubernetes, CI/CD with Jenkins and Git
+- Improved API response time by 40% using Redis caching
+
+Intern - TCS (2021-2022)
+- Worked on Angular frontend and Python scripting
+
+SKILLS
+Frontend: React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Redux, Next.js, Vue
+Backend: Node.js, Express, Java, Spring Boot, Python, Django
+Database: PostgreSQL, MySQL, MongoDB, Redis, SQL
+Cloud/DevOps: AWS, Docker, Kubernetes, CI/CD, Jenkins, Git, Linux, Terraform
+Other: REST APIs, Microservices, GraphQL, Agile, Scrum, Jira
+
+PROJECTS
+- E-commerce platform with React + Node.js + MongoDB + Redis + AWS
+- Real-time chat app with WebSockets and microservices
+
+CERTIFICATIONS
+- AWS Certified Developer - Associate (2023)
+- Oracle Certified Java Programmer

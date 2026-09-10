@@ -1,0 +1,30 @@
+Sneha Kulkarni
+HR Manager | Talent Acquisition
+Email: sneha.kulkarni@email.com | Phone: +91-9876543215 | Location: Bangalore, India
+
+SUMMARY
+HR Manager with 7 years of experience in talent acquisition, employee engagement, and HR operations for tech companies.
+
+EDUCATION
+MBA Human Resources - XLRI Jamshedpur (2015-2017)
+Bachelor of Arts - Psychology - Fergusson College (2012-2015)
+
+EXPERIENCE
+HR Manager - Flipkart (2019-Present) - 6 years experience
+- Hired 300+ engineers, designers, product managers
+- Managed HR operations, performance reviews, employee engagement
+- Used Jira, Agile, Scrum for HR tech implementation
+- Experience with SQL (basic), Data Analysis for HR metrics
+
+Senior HR Executive - Infosys (2017-2019) - 2 years
+
+SKILLS
+HR: Talent Acquisition, Recruitment, Employee Engagement, Performance Management, HR Operations, Training & Development
+Tools: Jira, Agile, Scrum, Figma (basic for HR creatives)
+Technical (basic): SQL, Excel, Data Analysis
+
+CERTIFICATIONS
+- SHRM Certified Professional (SHRM-CP)
+- PMP - Project Management Professional (basic)
+
+Note: Non-technical background, no React, Node.js, AWS, Docker, Python, Machine Learning.

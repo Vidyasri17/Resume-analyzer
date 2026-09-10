@@ -1,0 +1,31 @@
+Ananya Reddy
+UI/UX Designer | Product Designer
+Email: ananya.reddy@email.com | Phone: +91-9876543213 | Location: Pune, India | Portfolio: ananyareddy.design
+
+SUMMARY
+UI/UX Designer with 4 years of experience designing user-centric products for fintech and healthcare. Strong in Figma, user research, and design systems.
+
+EDUCATION
+Bachelor of Design - NID Ahmedabad (2017-2021)
+
+EXPERIENCE
+Product Designer - CRED (2021-Present) - 3.5 years experience
+- Designed mobile and web experiences for 2M+ users using Figma, prototyping
+- Conducted user research, usability testing, created design systems with HTML, CSS, Tailwind CSS basics
+- Collaborated with React developers, used Jira, Agile, Scrum
+- Basic knowledge of JavaScript, React for handoff
+
+UI Designer - Swiggy (2020-2021) - 1 year
+
+SKILLS
+Design: Figma, UI/UX, User Research, Wireframing, Prototyping, Design Systems, HTML, CSS, Tailwind CSS
+Frontend (basic): JavaScript, React, HTML, CSS
+Tools: Jira, Agile, Scrum, Git (basic)
+Other: Microservices understanding (basic), REST APIs (basic)
+
+PROJECTS
+- Redesigned CRED payments flow increasing conversion by 22%
+- Design system for healthcare app
+
+CERTIFICATIONS
+- Google UX Design Certificate (Coursera)

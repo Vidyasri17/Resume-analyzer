@@ -1,0 +1,26 @@
+Job Description: UI/UX Designer - Product Designer
+Company: DesignFirst - Pune | Experience: 3+ years
+
+Required Skills:
+- Figma, UI/UX, User Research, Wireframing, Prototyping, Design Systems
+- HTML, CSS, Tailwind CSS
+- Jira, Agile, Scrum
+
+Preferred Skills:
+- JavaScript, React (basic understanding for handoff)
+- Android, iOS design guidelines
+
+Education:
+Bachelor of Design or related field
+
+Experience:
+3+ years of experience designing digital products
+
+Responsibilities:
+- Design user-centric mobile and web experiences with Figma
+- Conduct user research and usability testing
+- Create design systems and collaborate with React developers
+
+Keywords: Figma, UI/UX, Design Systems, User Research, HTML, CSS
+
+Certifications: Google UX Design Certificate is a plus
