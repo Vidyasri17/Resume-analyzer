@@ -102,7 +102,7 @@ export default function App() {
               <div style={{ fontSize: 12, color: '#6b7280' }}>Compare multiple candidates against a job description using AI</div>
             </div>
           </div>
-          <div style={{ fontSize: 12, color: '#6b7280', display: window.innerWidth < 600 ? 'none' : 'block' }}>Hackathon • Fast • Explainable</div>
+
         </div>
       </header>
 
