@@ -44,7 +44,7 @@ export default function App() {
   const [chatInput, setChatInput] = useState('')
   const [chatMsgs, setChatMsgs] = useState([{ role: 'assistant', text: 'Upload & analyze, then ask me anything! e.g. "Which candidate is best?" or "Why did Candidate 2 score lower?"' }])
   const [chatLoading, setChatLoading] = useState(false)
-  const jdRef = useRef(null), resRef = useRef(null)
+  const jdRef = useRef(null), resRef = useRef(null), detailRef = useRef(null)
 
   const onJd = e => { const f = e.target.files[0]; if (f) setJdFile(f) }
   const onRes = e => {
@@ -165,7 +165,7 @@ export default function App() {
               <div>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill,minmax(260px,1fr))', gap: 12 }}>
                   {data.results.map(c => (
-                    <div key={c.candidate_name} onClick={() => setSelected(c)} style={{ background: 'white', border: `2px solid ${selected?.candidate_name === c.candidate_name ? '#4f46e5' : '#e5e7eb'}`, borderRadius: 14, padding: 14, cursor: 'pointer', boxShadow: selected?.candidate_name === c.candidate_name ? '0 4px 16px rgba(79,70,229,.15)' : 'none' }}>
+                    <div key={c.candidate_name} onClick={() => { setSelected(c); setTimeout(() => detailRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 80) }} style={{ background: 'white', border: `2px solid ${selected?.candidate_name === c.candidate_name ? '#4f46e5' : '#e5e7eb'}`, borderRadius: 14, padding: 14, cursor: 'pointer', boxShadow: selected?.candidate_name === c.candidate_name ? '0 4px 16px rgba(79,70,229,.15)' : 'none' }}>
                       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                         <div style={{ fontWeight: 800, fontSize: 13 }}>{c.candidate_name}</div>
                         <span style={{ background: fitBg(c.ats_score), color: fitColor(c.ats_score), padding: '2px 8px', borderRadius: 99, fontSize: 10, fontWeight: 800 }}>{fitLabel(c.ats_score)}</span>
@@ -190,7 +190,7 @@ export default function App() {
                 </div>
 
                 {selected && (
-                  <div style={{ background: 'white', border: '1px solid #e5e7eb', borderRadius: 14, padding: 16, marginTop: 16 }}>
+                  <div ref={detailRef} id="candidate-detail" style={{ background: 'white', border: '1px solid #e5e7eb', borderRadius: 14, padding: 16, marginTop: 16, scrollMarginTop: 72 }}>
                     <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap', alignItems: 'center' }}>
                       <ScoreRing score={selected.ats_score} />
                       <div style={{ flex: 1, minWidth: 220 }}>
